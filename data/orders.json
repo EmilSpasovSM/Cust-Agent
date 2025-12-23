@@ -1,0 +1,35 @@
+{
+  "12345": {
+    "order_id": "12345",
+    "status": "SHIPPED",
+    "eta": "2025-12-27",
+    "last_update": "2025-12-22T15:10:00Z",
+    "carrier": "MockShip",
+    "tracking_url": "https://tracking.mockship.example/track/12345",
+    "items": [
+      {"sku": "pro", "name": "Pro", "qty": 1}
+    ]
+  },
+  "67890": {
+    "order_id": "67890",
+    "status": "DELIVERED",
+    "eta": "2025-12-10",
+    "last_update": "2025-12-10T09:30:00Z",
+    "carrier": "MockShip",
+    "tracking_url": "https://tracking.mockship.example/track/67890",
+    "items": [
+      {"sku": "basic", "name": "Basic", "qty": 1}
+    ]
+  },
+  "99999": {
+    "order_id": "99999",
+    "status": "PROCESSING",
+    "eta": "2025-12-29",
+    "last_update": "2025-12-23T08:05:00Z",
+    "carrier": "MockShip",
+    "tracking_url": "https://tracking.mockship.example/track/99999",
+    "items": [
+      {"sku": "enterprise", "name": "Enterprise", "qty": 1}
+    ]
+  }
+}

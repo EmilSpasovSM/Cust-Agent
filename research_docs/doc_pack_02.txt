@@ -1,0 +1,10 @@
+title: Compostable vs recyclable mailers
+source: Internal training note
+date: 2025-02-08
+doc_id: local:doc_pack_02
+
+Compostable mailers can reduce fossil-based plastics, but their real-world benefit depends on access to industrial composting and correct disposal behavior.
+
+Many programs prefer recyclable mono-material mailers (e.g., all-PE) because they align with existing recycling streams, though contamination and collection rates remain constraints.
+
+A frequent best practice is to avoid mixed-material laminates when possible; if barrier performance is required, consider coatings that preserve recyclability and provide clear disposal instructions.

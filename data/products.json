@@ -1,0 +1,29 @@
+[
+  {
+    "id": "basic",
+    "name": "Basic",
+    "price": 29,
+    "currency": "USD",
+    "description": "Entry plan for individuals who need essentials.",
+    "features": ["Email support"],
+    "keywords": ["starter", "email", "individual", "basic", "budget"]
+  },
+  {
+    "id": "pro",
+    "name": "Pro",
+    "price": 59,
+    "currency": "USD",
+    "description": "For growing teams that need analytics and faster support.",
+    "features": ["Priority support", "Analytics"],
+    "keywords": ["team", "analytics", "priority", "pro", "upgrade"]
+  },
+  {
+    "id": "enterprise",
+    "name": "Enterprise",
+    "price": 199,
+    "currency": "USD",
+    "description": "For regulated or large orgs that need security, SLAs, and custom contracts.",
+    "features": ["Dedicated CSM", "SLA", "SSO", "Audit logs"],
+    "keywords": ["security", "sso", "sla", "enterprise", "audit"]
+  }
+]

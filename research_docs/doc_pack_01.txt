@@ -1,0 +1,10 @@
+title: Right-sizing and DIM-weight reduction
+source: Internal training note
+date: 2025-01-12
+doc_id: local:doc_pack_01
+
+a) Right-sizing reduces total material use and often lowers shipping emissions by reducing dimensional (DIM) weight.
+
+b) In e-commerce, box size variability is a major driver of void fill (paper, air pillows) and damage rates. Teams that redesign the packout process typically see both cost and waste reduction.
+
+c) Common implementation pattern: start with a small set of box sizes, measure damage/returns, then incrementally add sizes or on-demand box making for long-tail SKUs.

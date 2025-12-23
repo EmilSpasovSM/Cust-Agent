@@ -1,0 +1,10 @@
+title: Reusable packaging systems and reverse logistics
+source: Internal training note
+date: 2025-03-03
+doc_id: local:doc_pack_03
+
+Reusable shippers and mailers reduce single-use waste when they achieve sufficient reuse cycles.
+
+Key operational requirement: reverse logistics. Deposit incentives can raise return rates, but they add customer friction and require tracking, cleaning, and inspection.
+
+Organizations often pilot reusable packaging in dense delivery regions first, where return shipping distances are shorter and collection is easier.

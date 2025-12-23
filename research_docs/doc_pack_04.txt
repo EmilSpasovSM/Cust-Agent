@@ -1,0 +1,10 @@
+title: Packaging labels and disposal instructions
+source: Internal training note
+date: 2025-03-21
+doc_id: local:doc_pack_04
+
+Clear disposal instructions can improve consumer sorting behavior, especially when packaging uses newer materials (e.g., paper with barrier coatings).
+
+A simple recommendation is to align labels with the actual local end-of-life pathway: recycle where accepted, compost only where industrial composting exists, otherwise dispose.
+
+Overly generic sustainability messaging can increase contamination when consumers "wishcycle" items into recycling.

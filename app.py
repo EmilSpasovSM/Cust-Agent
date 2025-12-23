@@ -16,7 +16,6 @@ velocity_client = AsyncOpenAI(
 agent = Agent(
     name="Support Agent",
     instructions="Help customers with order status",
-    # IMPORTANT: pass a Model instance, not a string
     model=OpenAIChatCompletionsModel(
         model="openai.openai/gpt-5.2",   # Velocity's model routing string is fine here
         openai_client=velocity_client,

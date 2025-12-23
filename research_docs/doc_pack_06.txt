@@ -1,0 +1,10 @@
+title: EPR reporting and recycled content targets
+source: Internal training note
+date: 2025-02-19
+doc_id: local:doc_pack_06
+
+Extended Producer Responsibility (EPR) policies can increase fees for hard-to-recycle packaging and require more detailed reporting by material type.
+
+Companies respond by simplifying packaging (mono-materials), increasing recycled content, and improving documentation of packaging specifications.
+
+Operationally, teams often build packaging data catalogs so sustainability, procurement, and compliance share a single source of truth.

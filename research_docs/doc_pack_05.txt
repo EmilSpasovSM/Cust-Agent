@@ -1,0 +1,10 @@
+title: Fiber-based packaging and barrier coatings
+source: Internal training note
+date: 2024-12-28
+doc_id: local:doc_pack_05
+
+Fiber-based (paper) packaging is increasingly used to replace plastic, but performance for moisture/grease can require barrier layers.
+
+Water-based barrier coatings can improve performance; however, excessive coating weight or certain additives may reduce repulpability and recycling outcomes.
+
+A practical approach is to match barrier performance to the minimum needed, validate recyclability with downstream partners, and avoid mixed-material laminates when possible.
